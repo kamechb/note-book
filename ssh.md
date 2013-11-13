@@ -59,3 +59,9 @@ f参数，表示SSH连接成功后，转入后台运行。这样一来，你就�
 　　$ ssh -f -D 8080 host
 
 要关闭这个后台连接，就只有用kill命令去杀掉进程。
+
+
+
+出自[阮一峰的网络日志][1]
+
+[1]: http://www.ruanyifeng.com/blog/2011/12/ssh_port_forwarding.html
