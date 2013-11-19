@@ -17,3 +17,7 @@ rails new [project-name] 会用最新版本的rails 去创建,
 
     $> myrails new [project-name]
 
+
+### Grape在Rails下的自动加载
+
+Grape在Rails 3 下无法在开发环境下自动加载，在Rails 4 下可以自动加载
